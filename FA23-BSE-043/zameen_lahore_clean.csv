@@ -1,0 +1,871 @@
+price,area_sqft,bedrooms,bathrooms,city,location,property_type
+49000000.0,2250.0,5.0,6.0,Lahore,"Johar Town Phase 1, Johar Town",House
+22100000.0,1057.5,2.0,2.0,Lahore,"Zameen Opal, Land Breeze Housing Society",Flat
+53800000.0,2250.0,6.0,6.0,Lahore,"Wapda Town Phase 1, Wapda Town",House
+38500000.0,2250.0,5.0,6.0,Lahore,"DHA Phase 8, DHA Defence",House
+17000000.0,1125.0,3.0,4.0,Lahore,"Formanites Housing Scheme, Lahore",House
+55000000.0,2250.0,6.0,7.0,Lahore,"Lake City - Sector M-2A, Lake City",House
+19500000.0,6300.0,2.0,2.0,Lahore,"Bedian Road, Lahore",Farm House
+76800000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block W, DHA Phase 7",House
+75000000.0,2475.0,5.0,7.0,Lahore,"Bahria Town - Jasmine Block, Bahria Town - Sector C",House
+45000000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Ghaznavi Block, Bahria Town - Sector F",House
+46000000.0,2250.0,5.0,6.0,Lahore,"Lake City Meadows, Lahore",House
+6000000.0,675.0,2.0,2.0,Lahore,"Jubilee Town, Lahore",House
+23000000.0,1125.0,4.0,4.0,Lahore,"Central Park - Block A1, Central Park Housing Scheme",House
+4500000.0,450.0,3.0,3.0,Lahore,"Military Accounts Housing Society, Lahore",House
+30000000.0,922.5,2.0,2.0,Lahore,"Green View Executive Apartments, DHA Phase 5",Flat
+24000000.0,1867.5,3.0,3.0,Lahore,"Defence View Apartments, Shanghai Road",Flat
+52000000.0,2250.0,5.0,5.0,Lahore,"Bahria Town - Quaid Block, Bahria Town - Sector E",House
+55000000.0,2250.0,5.0,5.0,Lahore,"Bahria Town - Jasmine Block, Bahria Town - Sector C",House
+85000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+84500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+59500000.0,4500.0,8.0,6.0,Lahore,"LDA Avenue - Block M, LDA Avenue",House
+67000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 1, DHA Defence",House
+42500000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 2, DHA Defence",House
+100000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+73000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+24500000.0,1125.0,3.0,4.0,Lahore,"Lake City Meadows Phase 1 - Block A, Lake City Meadows Phase 1",House
+16000000.0,1125.0,3.0,4.0,Lahore,"Park View City - Crystal Block, Park View City",House
+5325000.0,382.5,1.0,1.0,Lahore,"Al-Kabir Town - Downtown, Al-Kabir Town",Flat
+11800000.0,675.0,3.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+12000000.0,675.0,3.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+28000000.0,1125.0,3.0,3.0,Lahore,"Bahria Town - Block BB, Bahria Town - Sector D",House
+10800000.0,675.0,3.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+12000000.0,742.5,2.0,2.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+6500000.0,405.0,1.0,1.0,Lahore,"Bahria Town - Iqbal Block, Bahria Town - Sector E",Flat
+13500000.0,675.0,3.0,4.0,Lahore,"Al-Ahmad Garden Housing Scheme, GT Road",House
+17800000.0,1125.0,5.0,6.0,Lahore,"Metro City, GT Road",House
+23200000.0,1125.0,3.0,4.0,Lahore,"Palm City, Ferozepur Road",House
+22000000.0,1125.0,3.0,5.0,Lahore,"Bahria Orchard Phase 1 - Eastern, Bahria Orchard Phase 1",House
+8300000.0,517.5,1.0,1.0,Lahore,"Bahria Town - Sector D, Bahria Town",Flat
+8280000.0,450.0,1.0,1.0,Lahore,"Bahria Town - Sector D, Bahria Town",Flat
+14800000.0,900.0,2.0,2.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+12500000.0,652.5,2.0,2.0,Lahore,"Bahria Town - Sector B, Bahria Town",Flat
+6500000.0,517.5,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+19000000.0,1125.0,3.0,5.0,Lahore,"Bahria Orchard Phase 2, Bahria Orchard",House
+42500000.0,2250.0,3.0,3.0,Lahore,"Askari 10 - Sector F, Askari 10",Flat
+32900000.0,1125.0,4.0,5.0,Lahore,"Lake City - Sector M7 - Block C1, Lake City - Sector M-7",House
+74700000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+91300000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+26800000.0,1125.0,4.0,5.0,Lahore,"Lake City - Sector M-7B, Lake City",House
+28500000.0,1800.0,5.0,6.0,Lahore,"OLC - Block A, Overseas Low Cost",House
+45000000.0,2250.0,5.0,6.0,Lahore,"Bahria Orchard Phase 1 - Central, Bahria Orchard Phase 1",House
+15000000.0,675.0,3.0,3.0,Lahore,"Mohlanwal Scheme, Lahore",House
+12500000.0,1125.0,4.0,4.0,Lahore,"Bahria Orchard Phase 4 - Block G5, Bahria Orchard Phase 4",House
+30000000.0,2250.0,5.0,6.0,Lahore,"AWT Phase 2, AWT Army Welfare Trust",House
+22000000.0,1125.0,3.0,4.0,Lahore,"Bahria Town - Sector F, Bahria Town",House
+32500000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Sector C, Bahria Town",House
+7000000.0,495.00000000000006,1.0,1.0,Lahore,"Bahria Town - Sector C, Bahria Town",Flat
+125000000.0,4500.0,5.0,7.0,Lahore,"Bahria Town - Block EE, Bahria Town - Sector D",House
+18500000.0,1125.0,3.0,4.0,Lahore,"Bahria Orchard Phase 1 - Eastern, Bahria Orchard Phase 1",House
+85000000.0,4500.0,5.0,6.0,Lahore,"Bahria Town - Overseas Enclave, Bahria Town",House
+18000000.0,1125.0,3.0,5.0,Lahore,"Bahria Orchard Phase 2, Bahria Orchard",House
+7400000.0,540.0,1.0,1.0,Lahore,"Bahria Town - Block AA, Bahria Town - Sector D",Flat
+16000000.0,1125.0,3.0,4.0,Lahore,"Bahria Town - Safari Villas, Bahria Town - Sector B",House
+6200000.0,495.00000000000006,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+12500000.0,1125.0,3.0,5.0,Lahore,"Bahria Orchard Phase 4 - Block G5, Bahria Orchard Phase 4",House
+7500000.0,1125.0,2.0,2.0,Lahore,"Bahria Orchard Phase 4 - Block G5, Bahria Orchard Phase 4",Flat
+17000000.0,1125.0,4.0,5.0,Lahore,"Bahria Orchard Phase 1 - Eastern, Bahria Orchard Phase 1",House
+21500000.0,1125.0,3.0,5.0,Lahore,"Bahria Orchard Phase 1, Bahria Orchard",House
+19200000.0,1125.0,5.0,6.0,Lahore,"Al Rehman Garden Phase 2, Al Rehman Garden",House
+11000000.0,675.0,3.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+45900000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 7, DHA Defence",House
+42400000.0,1575.0,6.0,6.0,Lahore,"Lake City - Sector M-7A, Lake City",House
+18000000.0,1350.0,3.0,3.0,Lahore,"Bahria Homes, Bahria Town - Sector E",House
+6987000.0,405.0,0.0,1.0,Lahore,"Raiwind Road, Lahore",Plot
+32000000.0,1125.0,1.0,2.0,Lahore,"Penta Square By DHA Lahore, DHA Phase 5",Flat
+28500000.0,945.0,2.0,2.0,Lahore,"Indigo Boutique Apartments, Gulberg",House
+96500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block W, DHA Phase 7",House
+22000000.0,990.0,2.0,2.0,Lahore,"The Opus Luxury Residence, Gulberg 3",Flat
+15000000.0,1125.0,4.0,4.0,Lahore,"Park View City - Platinum Block, Park View City",House
+17000000.0,1125.0,4.0,4.0,Lahore,"Park View City, Lahore",House
+70000000.0,4500.0,6.0,6.0,Lahore,"Valencia - Block E, Valencia Housing Society",House
+19900000.0,1125.0,4.0,4.0,Lahore,"Palm City, Ferozepur Road",House
+22200000.000000004,1350.0,3.0,4.0,Lahore,"Palm City, Ferozepur Road",House
+42500000.0,2250.0,5.0,6.0,Lahore,"Tariq Gardens - Block C, Tariq Gardens",House
+35000000.0,2250.0,5.0,6.0,Lahore,"Wapda Town Phase 1 - Block J2, Wapda Town Phase 1",House
+17000000.0,1125.0,3.0,5.0,Lahore,"Bahria Orchard Phase 1, Bahria Orchard",House
+19500000.0,1125.0,3.0,5.0,Lahore,"Bahria Orchard Phase 2, Bahria Orchard",House
+22500000.0,1575.0,4.0,6.0,Lahore,"Bahria Orchard Phase 1 - Eastern Extension, Bahria Orchard Phase 1",House
+24000000.0,1125.0,3.0,4.0,Lahore,"Bahria Town - Jinnah Block, Bahria Town - Sector E",House
+30000000.0,1125.0,4.0,4.0,Lahore,"Lake City, Raiwind Road",House
+85000000.0,4500.0,6.0,7.0,Lahore,"Wapda Town Phase 1 - Block D3, Wapda Town Phase 1",House
+8500000.0,517.5,1.0,1.0,Lahore,"Lahore Sky, Ferozepur Road",Flat
+8500000.0,450.0,1.0,1.0,Lahore,"Midway Commercial, Bahria Town",Flat
+11500000.0,742.5,2.0,2.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+35700000.0,1125.0,5.0,6.0,Lahore,"Johar Town Phase 2, Johar Town",House
+49800000.00000001,2250.0,5.0,6.0,Lahore,"Wapda Town Phase 1, Wapda Town",House
+42500000.0,2250.0,5.0,6.0,Lahore,"Architects Engineers Housing Society, Lahore",House
+15000000.0,675.0,4.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+27000000.0,1125.0,3.0,4.0,Lahore,"DHA 11 Rahbar Sector 2, DHA 11 Rahbar",House
+21000000.0,1125.0,6.0,6.0,Lahore,"Nasheman-e-Iqbal Phase 2, Nasheman-e-Iqbal",House
+95000000.0,2925.0,5.0,6.0,Lahore,"Bahria Town - Shaheen Block, Bahria Town - Sector B",House
+27500000.0,1125.0,3.0,3.0,Lahore,"Bahria Town - Jinnah Block, Bahria Town - Sector E",House
+72500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 8 - Ex Air Avenue, DHA Phase 8",House
+77500000.0,4500.0,5.0,7.0,Lahore,"DHA Phase 7 - Block Y, DHA Phase 7",House
+86500000.0,4500.0,5.0,6.0,Lahore,"Johar Town Phase 2 - Block G3, Johar Town Phase 2",House
+18000000.0,787.5,3.0,3.0,Lahore,"Johar Town Phase 2 - Block R1, Johar Town Phase 2",House
+28000000.0,1125.0,4.0,5.0,Lahore,"Johar Town Phase 2 - Block L, Johar Town Phase 2",House
+26000000.0,1125.0,4.0,5.0,Lahore,"Johar Town Phase 2 - Block Q, Johar Town Phase 2",House
+24500000.0,1125.0,4.0,5.0,Lahore,"Johar Town Phase 2 - Block Q, Johar Town Phase 2",House
+37500000.0,1125.0,4.0,5.0,Lahore,"Lake City - Sector M-6, Lake City",House
+19000000.0,1125.0,3.0,4.0,Lahore,"Khayaban-e-Amin, Lahore",House
+38000000.0,2250.0,5.0,6.0,Lahore,"Wapda Town Phase 1 - Block K2, Wapda Town Phase 1",House
+33000000.0,1125.0,4.0,5.0,Lahore,"Lake City - Sector M7 - Block C1, Lake City - Sector M-7",House
+19500000.0,1125.0,3.0,4.0,Lahore,"Khayaban-e-Amin, Lahore",House
+65000000.0,4500.0,5.0,7.0,Lahore,"Valencia - Block C1, Valencia Housing Society",House
+95000000.0,4500.0,6.0,7.0,Lahore,"Lake City - Sector M-3, Lake City",House
+28000000.0,1125.0,4.0,5.0,Lahore,"Al Hafeez Garden Phase 2 - Imran Block, Al Hafeez Garden - Phase 2",House
+2500000.0,495.00000000000006,1.0,1.0,Lahore,"Midway Commercial, Bahria Town",Flat
+25000000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town, DHA Defence",House
+30000000.0,2407.5,5.0,6.0,Lahore,"Bahria Town - Gulbahar Block, Bahria Town - Sector C",House
+4800000.0,292.5,1.0,1.0,Lahore,"Bahria Town - Nishtar Block, Bahria Town - Sector E",House
+39500000.0,2250.0,6.0,7.0,Lahore,"LDA Avenue - Block J, LDA Avenue",House
+85000000.0,4500.0,5.0,5.0,Lahore,"Bahria Town - Nargis Extension, Bahria Town - Sector C",House
+56000000.0,2250.0,5.0,5.0,Lahore,"Lake City - Sector M-2, Lake City",House
+70000000.0,2250.0,7.0,7.0,Lahore,"Allama Iqbal Town - Ravi Block, Allama Iqbal Town",House
+16000000.0,1125.0,4.0,5.0,Lahore,"Park View City, Lahore",House
+17000000.0,1125.0,4.0,5.0,Lahore,"Park View City, Lahore",House
+145000000.0,9000.0,5.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+79900000.0,4500.0,6.0,7.0,Lahore,"DHA Phase 4 - Block CC, DHA Phase 4",House
+50000000.0,4500.0,4.0,6.0,Lahore,"Valencia - Block L, Valencia Housing Society",House
+27000000.0,1125.0,5.0,6.0,Lahore,"Johar Town Phase 2, Johar Town",House
+28500000.0,1125.0,5.0,6.0,Lahore,"Johar Town Phase 2, Johar Town",House
+15500000.0,1125.0,4.0,5.0,Lahore,"Al Jalil Garden, Lahore",House
+85000000.0,4500.0,6.0,6.0,Lahore,"Paragon City, Lahore",House
+23000000.0,1125.0,4.0,6.0,Lahore,"Al Hafeez Garden Phase 2 - Adil Block, Al Hafeez Garden - Phase 2",House
+125000000.0,9000.0,8.0,7.0,Lahore,"Valencia - Block H, Valencia Housing Society",House
+11000000.0,585.0,3.0,3.0,Lahore,"Al Hafeez Garden Phase 2 - Imran Block, Al Hafeez Garden - Phase 2",House
+5000000.0,450.0,2.0,2.0,Lahore,"Tajpura, Lahore",House
+60000000.0,4500.0,6.0,6.0,Lahore,"Johar Town Phase 1 - Block G, Johar Town Phase 1",House
+72500000.0,4500.0,6.0,7.0,Lahore,"NFC 1, Lahore",House
+51000000.0,2700.0,4.0,5.0,Lahore,"Johar Town Phase 1 - Block G1, Johar Town Phase 1",House
+45500000.0,2700.0,5.0,7.0,Lahore,"Johar Town Phase 1 - Block A2, Johar Town Phase 1",House
+47500000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 6, DHA Defence",House
+38500000.0,2250.0,6.0,7.0,Lahore,"LDA Avenue, Lahore",House
+17200000.0,1125.0,4.0,4.0,Lahore,"Park View City, Lahore",House
+36500000.0,1575.0,6.0,7.0,Lahore,"Lake City, Raiwind Road",House
+95000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block Y, DHA Phase 7",House
+32000000.0,2250.0,5.0,6.0,Lahore,"Park View City, Lahore",House
+26000000.0,1125.0,3.0,4.0,Lahore,"Paragon City, Lahore",House
+18000000.0,900.0,3.0,4.0,Lahore,"Paragon City, Lahore",House
+19500000.0,1125.0,4.0,4.0,Lahore,"Park View City, Lahore",House
+24000000.0,1125.0,4.0,4.0,Lahore,"Park View City - Tulip Block, Park View City",House
+70000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 3 - Block Z, DHA Phase 3",House
+30000000.0,1125.0,3.0,4.0,Lahore,"Paragon City, Lahore",House
+46600000.0,1372.5,2.0,2.0,Lahore,"Gulberg 3, Gulberg",Flat
+64500000.0,4500.0,7.0,6.0,Lahore,"Chinar Bagh, Lahore",House
+34000000.0,4500.0,3.0,4.0,Lahore,"Chinar Bagh - Shaheen Block, Chinar Bagh",House
+155000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 8 - Block W, DHA Phase 8",House
+18900000.0,1125.0,3.0,4.0,Lahore,"Khayaban-e-Amin - Block C, Khayaban-e-Amin",House
+17500000.0,675.0,3.0,3.0,Lahore,"Johar Town Phase 2 - Block R1, Johar Town Phase 2",House
+58000000.0,2700.0,5.0,7.0,Lahore,"Johar Town Phase 2 - Block J, Johar Town Phase 2",House
+35500000.0,2250.0,5.0,6.0,Lahore,"NFC 1 - Block D (SE), NFC 1",House
+26500000.0,1125.0,5.0,6.0,Lahore,"Johar Town Phase 2 - Block Q, Johar Town Phase 2",House
+40000000.0,1575.0,4.0,5.0,Lahore,"Johar Town Phase 1 - Block F, Johar Town Phase 1",House
+43500000.0,2250.0,5.0,7.0,Lahore,"Airline Housing Society, Lahore",House
+5000000.0,495.00000000000006,1.0,1.0,Lahore,"Johar Town Phase 1 - Block G1, Johar Town Phase 1",Flat
+26000000.0,1125.0,4.0,4.0,Lahore,"Johar Town Phase 2 - Block Q, Johar Town Phase 2",House
+20900000.0,1125.0,4.0,4.0,Lahore,"DHA 9 Town - Block A, DHA 9 Town",House
+74500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block Y, DHA Phase 7",House
+90000000.0,4500.0,5.0,5.0,Lahore,"DHA Phase 7 - Block Y, DHA Phase 7",House
+18500000.0,1125.0,4.0,4.0,Lahore,"Park View City - Platinum Block, Park View City",House
+24000000.0,1125.0,3.0,4.0,Lahore,"Bankers Avenue Cooperative Housing Society, Lahore",House
+47500000.0,2250.0,5.0,6.0,Lahore,"Bahria Orchard, Lahore",House
+86500000.0,4500.0,4.0,5.0,Lahore,"Askari 11 - Sector B, Askari 11",House
+67000000.0,3600.0,4.0,6.0,Lahore,"Askari 11 - Sector B, Askari 11",House
+36000000.0,1575.0,6.0,7.0,Lahore,"Lake City, Raiwind Road",House
+35000000.0,1125.0,4.0,4.0,Lahore,"Lake City, Raiwind Road",House
+22500000.0,1125.0,4.0,5.0,Lahore,"Lake City, Raiwind Road",House
+15000000.0,675.0,3.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+14000000.0,675.0,3.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+23500000.0,1125.0,3.0,4.0,Lahore,"Paragon City, Lahore",House
+16500000.0,900.0,3.0,4.0,Lahore,"Paragon City, Lahore",House
+120000000.0,4500.0,5.0,6.0,Lahore,"Abdalians Cooperative Housing Society, Lahore",House
+165000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block M, DHA Phase 6",House
+16000000.0,1125.0,3.0,3.0,Lahore,"Khayaban-e-Amin, Lahore",House
+250000000.0,5850.0,6.0,6.0,Lahore,"DHA Phase 8 - Block W, DHA Phase 8",House
+23000000.0,1125.0,5.0,6.0,Lahore,"Central Park Housing Scheme, Lahore",House
+145000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 5 - Block B, DHA Phase 5",House
+20000000.0,900.0,3.0,4.0,Lahore,"Paragon City, Lahore",House
+26500000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town, DHA Defence",House
+77500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+119000000.0,4500.0,6.0,7.0,Lahore,"DHA Phase 6, DHA Defence",House
+55000000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 5, DHA Defence",House
+21500000.0,1125.0,3.0,4.0,Lahore,"Paragon City, Lahore",House
+7500000.0,450.0,3.0,2.0,Lahore,"Sabzazar Scheme - Block N, Sabzazar Scheme",House
+28000000.0,2250.0,2.0,4.0,Lahore,"Ghazi Road, Cantt",House
+25500000.0,1125.0,4.0,4.0,Lahore,"Bismillah Housing Scheme, GT Road",House
+23500000.0,1125.0,3.0,4.0,Lahore,"Lake City Meadows Phase 1 - Block A, Lake City Meadows Phase 1",House
+17000000.0,1125.0,3.0,5.0,Lahore,"Bahria Town - Sector E, Bahria Town",House
+126500000.0,3150.0,5.0,5.0,Lahore,"PAF Falcon Complex, Gulberg",House
+18100000.0,405.0,0.0,1.0,Lahore,"Zameen Hive, Gulberg 3",Plot
+23500000.0,1125.0,4.0,4.0,Lahore,"Central Park Housing Scheme, Lahore",House
+32000000.0,2250.0,5.0,6.0,Lahore,"AWT Phase 2, AWT Army Welfare Trust",House
+27000000.0,1125.0,4.0,5.0,Lahore,"Lake City, Raiwind Road",House
+71500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block U, DHA Phase 7",House
+110000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block T, DHA Phase 7",House
+150000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block X, DHA Phase 7",House
+320000000.0,9000.0,6.0,7.0,Lahore,"DHA Phase 6 - Block K, DHA Phase 6",House
+39000000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 4 - Block EE, DHA Phase 4",House
+7500000.0,427.5,1.0,1.0,Lahore,"Bahria Town - Sector B, Bahria Town",Flat
+7900000.0,450.0,1.0,1.0,Lahore,"Bahria Town - Sector B, Bahria Town",Flat
+248000000.0,4500.0,6.0,7.0,Lahore,"DHA Phase 6 - Block K, DHA Phase 6",House
+29900000.000000004,1125.0,5.0,4.0,Lahore,"Allama Iqbal Town, Lahore",House
+249500000.0,9000.0,6.0,7.0,Lahore,"DHA Phase 6, DHA Defence",House
+107000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+125000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+41000000.0,2250.0,5.0,6.0,Lahore,"Paragon City, Lahore",House
+29500000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Gulbahar Block, Bahria Town - Sector C",House
+51000000.0,4500.0,7.0,6.0,Lahore,"AWT Phase 2, AWT Army Welfare Trust",House
+9000000.0,675.0,3.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+12700000.0,675.0,4.0,5.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+145000000.0,4500.0,6.0,7.0,Lahore,"DHA Phase 8 - Block U, DHA Phase 8",House
+39900000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 3 - Block XX, DHA Phase 3",House
+67500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block S, DHA Phase 7",House
+47500000.0,2700.0,4.0,5.0,Lahore,"Paragon City, Lahore",House
+60000000.0,2700.0,6.0,6.0,Lahore,"Lake City - Sector M-3A, Lake City",House
+140000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+50000000.0,2250.0,6.0,7.0,Lahore,"Lake City - Sector M-2A, Lake City",House
+167500000.0,4500.0,6.0,6.0,Lahore,"DHA Phase 6 - Block A, DHA Phase 6",House
+22000000.0,1125.0,3.0,4.0,Lahore,"Bahria Town - Tulip Extension, Bahria Town - Sector C",House
+220000000.0,4500.0,6.0,7.0,Lahore,"DHA Phase 6 - Block K, DHA Phase 6",House
+37000000.0,2250.0,5.0,6.0,Lahore,"Bankers Avenue Cooperative Housing Society, Lahore",House
+32500000.0,2250.0,5.0,6.0,Lahore,"Bankers Avenue Cooperative Housing Society, Lahore",House
+105000000.0,3825.0,5.0,6.0,Lahore,"Askari 10 - Sector F, Askari 10",House
+69000000.0,4500.0,5.0,7.0,Lahore,"DHA Phase 7, DHA Defence",House
+75000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+95000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+247500000.0,4500.0,6.0,7.0,Lahore,"DHA Phase 6 - Block K, DHA Phase 6",House
+14500000.0,675.0,3.0,3.0,Lahore,"Al Rehman Garden Phase 2, Al Rehman Garden",House
+19800000.0,1125.0,3.0,4.0,Lahore,"Lake City Meadows Phase 1 - Block A, Lake City Meadows Phase 1",House
+12000000.0,1125.0,3.0,3.0,Lahore,"Bahria Orchard Phase 1 - Eastern Extension, Bahria Orchard Phase 1",House
+22800000.0,1125.0,3.0,5.0,Lahore,"DHA 9 Town, DHA Defence",House
+24000000.0,1462.5,4.0,5.0,Lahore,"DHA 9 Town, DHA Defence",House
+85000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block W, DHA Phase 7",House
+33000000.0,1125.0,4.0,4.0,Lahore,"Lake City, Raiwind Road",House
+97000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+105000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 5, DHA Defence",House
+95000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 4, DHA Defence",House
+24000000.0,1125.0,4.0,6.0,Lahore,"Al Rehman Garden Phase 2, Al Rehman Garden",House
+40000000.0,2250.0,5.0,5.0,Lahore,"Bankers Avenue Cooperative Housing Society, Lahore",House
+77500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block T, DHA Phase 7",House
+70000000.0,2700.0,5.0,6.0,Lahore,"Johar Town, Lahore",House
+43500000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 7 - Block T, DHA Phase 7",House
+340000000.0,9000.0,5.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+26000000.0,1125.0,3.0,4.0,Lahore,"Paragon City - Orchard 1 Block, Paragon City",House
+120000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+22000000.0,1125.0,3.0,4.0,Lahore,"Paragon City, Lahore",House
+23900000.0,697.5,1.0,1.0,Lahore,"Gulberg 3, Gulberg",Flat
+36000000.0,2250.0,3.0,4.0,Lahore,"Askari 11, Askari",Flat
+68000000.0,4500.0,6.0,6.0,Lahore,"Bahria Town - Sector F, Bahria Town",House
+11000000.0,675.0,3.0,3.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+110000000.0,4500.0,7.0,7.0,Lahore,"DHA Phase 4, DHA Defence",House
+9000000.0,1575.0,3.0,3.0,Lahore,"Bahria Orchard Phase 4, Bahria Orchard",Flat
+38200000.0,2025.0,5.0,6.0,Lahore,"Paragon City, Lahore",House
+35400000.0,2700.0,4.0,5.0,Lahore,"Askari 11, Askari",Flat
+6800000.0,540.0,1.0,1.0,Lahore,"Bahria Town - Nishtar Block, Bahria Town - Sector E",Flat
+41800000.0,2250.0,5.0,6.0,Lahore,"Johar Town, Lahore",House
+8300000.0,495.00000000000006,1.0,1.0,Lahore,"Bahria Town - Iqbal Block, Bahria Town - Sector E",Flat
+80000000.0,4500.0,6.0,7.0,Lahore,"Bahria Town - Overseas B, Bahria Town - Overseas Enclave",House
+90500000.0,4500.0,6.0,7.0,Lahore,"DHA Phase 6 - Block H, DHA Phase 6",House
+20800000.0,1125.0,3.0,4.0,Lahore,"Central Park - Block A1, Central Park Housing Scheme",House
+16500000.0,1125.0,3.0,4.0,Lahore,"Bahria Nasheman, Lahore",House
+46900000.00000001,2250.0,4.0,5.0,Lahore,"DHA Phase 7, DHA Defence",House
+24000000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town, DHA Defence",House
+68500000.0,1800.0,5.0,6.0,Lahore,"Johar Town Phase 2, Johar Town",House
+66500000.0,2700.0,5.0,6.0,Lahore,"DHA Phase 5 - Block D, DHA Phase 5",House
+137500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+35500000.0,2250.0,3.0,3.0,Lahore,"Askari 11 - Sector D, Askari 11",House
+26500000.0,1125.0,4.0,4.0,Lahore,"Paragon City - Imperial 2 Block, Paragon City",House
+60000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+35000000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Sector F, Bahria Town",House
+5650000.0,1125.0,2.0,2.0,Lahore,"Kings Town, Raiwind Road",Flat
+30900000.0,2700.0,4.0,5.0,Lahore,"Askari 11, Askari",Flat
+39500000.0,2250.0,3.0,4.0,Lahore,"Askari 11, Askari",Flat
+32500000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town, DHA Defence",House
+47000000.0,2250.0,5.0,5.0,Lahore,"Paragon City, Lahore",House
+48500000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Sector F, Bahria Town",House
+22000000.0,1125.0,4.0,5.0,Lahore,"Lake City, Raiwind Road",House
+8200000.0,427.5,1.0,1.0,Lahore,"Bahria Town - Sector B, Bahria Town",Flat
+267500000.0,9000.0,5.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+47000000.0,2250.0,4.0,5.0,Lahore,"Paragon City, Lahore",House
+46000000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 7 - Block U, DHA Phase 7",House
+52600000.0,2250.0,3.0,4.0,Lahore,"DHA 9 Town - Block A, DHA 9 Town",House
+16500000.0,1125.0,3.0,4.0,Lahore,"Low Cost - Block G, Low Cost Sector",House
+34000000.0,2250.0,5.0,5.0,Lahore,"Bahria Orchard Phase 1 - Northern, Bahria Orchard Phase 1",House
+23000000.0,1125.0,3.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+79500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block N, DHA Phase 6",House
+76500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block P, DHA Phase 7",House
+21500000.0,1125.0,3.0,4.0,Lahore,"Palm City, Ferozepur Road",House
+21000000.0,1125.0,3.0,4.0,Lahore,"Palm City, Ferozepur Road",House
+77500000.0,4500.0,5.0,6.0,Lahore,"Lake City Meadows Phase 1 - Block E, Lake City Meadows Phase 1",House
+22000000.0,1125.0,3.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+22500000.0,1125.0,3.0,4.0,Lahore,"Bahria Orchard Phase 1 - Eastern, Bahria Orchard Phase 1",House
+43000000.0,2250.0,5.0,6.0,Lahore,"Bahria Orchard Phase 1 - Central, Bahria Orchard Phase 1",House
+21500000.0,1125.0,4.0,4.0,Lahore,"Park View City - Jade Extension Block, Park View City",House
+18500000.0,1125.0,4.0,4.0,Lahore,"Park View City, Lahore",House
+84500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 3 - Block Z, DHA Phase 3",House
+92500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block N, DHA Phase 6",House
+78500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block N, DHA Phase 6",House
+46500000.0,2250.0,5.0,6.0,Lahore,"Paragon City, Lahore",House
+82500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block M, DHA Phase 6",House
+52500000.0,2250.0,5.0,6.0,Lahore,"Paragon City, Lahore",House
+26500000.0,1125.0,3.0,4.0,Lahore,"Paragon City, Lahore",House
+13500000.0,675.0,3.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+32000000.0,2250.0,3.0,3.0,Lahore,"Askari 11, Askari",Flat
+102500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 5 - Block K, DHA Phase 5",House
+119900000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 8 - Block W, DHA Phase 8",House
+67000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block W, DHA Phase 7",House
+62500000.0,4500.0,5.0,6.0,Lahore,"Lake City Meadows Phase 1, Lake City Meadows",House
+22500000.0,1350.0,3.0,4.0,Lahore,"Palm City, Ferozepur Road",House
+77500000.0,5400.0,5.0,5.0,Lahore,"DHA Phase 7 - Block Y, DHA Phase 7",House
+6600000.0,675.0,2.0,2.0,Lahore,"Jubilee Town, Lahore",House
+83000000.0,4500.0,5.0,6.0,Lahore,"Lake City Meadows Phase 1 - Block E, Lake City Meadows Phase 1",House
+31000000.0,1125.0,3.0,4.0,Lahore,"DHA Phase 5 - Block D, DHA Phase 5",House
+12300000.0,675.0,4.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+13500000.0,675.0,4.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+32500000.0,2250.0,5.0,6.0,Lahore,"AWT Phase 2, AWT Army Welfare Trust",House
+5500000.0,675.0,2.0,1.0,Lahore,"Allama Iqbal Town - Chinab Block, Allama Iqbal Town",Flat
+39000000.0,1575.0,6.0,6.0,Lahore,"Lake City - Sector M-7, Lake City",House
+16500000.0,675.0,3.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+45000000.0,2250.0,5.0,6.0,Lahore,"Paragon City, Lahore",House
+21000000.0,1125.0,3.0,4.0,Lahore,"Paragon City, Lahore",House
+21000000.0,900.0,3.0,4.0,Lahore,"Paragon City, Lahore",House
+17000000.0,675.0,4.0,5.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+60000000.0,2250.0,7.0,7.0,Lahore,"Paragon City, Lahore",House
+6495000.0,540.0,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",House
+89900000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block U, DHA Phase 7",House
+98500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block H, DHA Phase 6",House
+49000000.0,2250.0,4.0,6.0,Lahore,"DHA Phase 4 - Block KK, DHA Phase 4",House
+72500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+18000000.0,1125.0,4.0,4.0,Lahore,"Park View City - Tulip Overseas, Park View City",House
+12500000.0,900.0,5.0,5.0,Lahore,"Gajju Matah, Lahore",House
+95000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+110000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+150000000.0,4500.0,8.0,6.0,Lahore,"DHA Phase 8 - Block V, DHA Phase 8",House
+27500000.0,1125.0,3.0,4.0,Lahore,"DHA Phase 4 - Block JJ, DHA Phase 4",House
+72500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 4, DHA Defence",House
+49900000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Overseas B, Bahria Town - Overseas Enclave",House
+49500000.0,2250.0,4.0,5.0,Lahore,"Bahria Town - Quaid Block, Bahria Town - Sector E",House
+7940000.000000001,495.00000000000006,1.0,1.0,Lahore,"Bahria Town - Jinnah Block, Bahria Town - Sector E",Flat
+39900000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Janiper Block, Bahria Town - Sector C",House
+41500000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Umar Block, Bahria Town - Sector B",House
+42500000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 7 - Block Y, DHA Phase 7",House
+37000000.0,1125.0,4.0,4.0,Lahore,"Lake City, Raiwind Road",House
+56500000.0,2250.0,5.0,6.0,Lahore,"Paragon City, Lahore",House
+47000000.0,2250.0,5.0,6.0,Lahore,"Paragon City, Lahore",House
+5475000.0,787.5,2.0,2.0,Lahore,"Lahore Motorway City, Lahore",House
+14200000.0,1575.0,5.0,5.0,Lahore,"Lahore Motorway City, Lahore",House
+5850000.0,1125.0,3.0,3.0,Lahore,"Lahore Motorway City, Lahore",House
+35000000.0,1237.5,6.0,7.0,Lahore,"Johar Town Phase 2, Johar Town",House
+17000000.0,1125.0,4.0,5.0,Lahore,"OLC - Block A, Overseas Low Cost",House
+24900000.000000004,1125.0,3.0,4.0,Lahore,"DHA 9 Town, DHA Defence",House
+115000000.0,7200.0,6.0,7.0,Lahore,"EME Society, Lahore",House
+52500000.0,2250.0,6.0,6.0,Lahore,"Wapda Town Phase 1, Wapda Town",House
+22000000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town, DHA Defence",House
+87500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+21500000.0,1125.0,3.0,4.0,Lahore,"Bahria Town - Sector E, Bahria Town",House
+13500000.0,1102.5,2.0,2.0,Lahore,"Bahria Town - Block AA, Bahria Town - Sector D",Flat
+105000000.0,4500.0,7.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+17000000.0,1125.0,4.0,4.0,Lahore,"Park View City - Platinum Block, Park View City",House
+31500000.0,2250.0,3.0,4.0,Lahore,"Askari 11, Askari",Flat
+6500000.0,675.0,2.0,1.0,Lahore,"Allama Iqbal Town - Chinab Block, Allama Iqbal Town",Flat
+31000000.0,1035.0,2.0,2.0,Lahore,"The Opus Luxury Residence, Gulberg 3",Flat
+46000000.0,2250.0,5.0,6.0,Lahore,"Paragon City - Imperial Block, Paragon City",House
+9350000.0,1125.0,5.0,4.0,Lahore,"Lahore Motorway City - Block T, Lahore Motorway City",House
+7375000.0,1125.0,3.0,3.0,Lahore,"Lahore Motorway City Homes, Lahore Motorway City",House
+41500000.0,2250.0,5.0,5.0,Lahore,"Paragon City, Lahore",House
+12800000.0,1125.0,4.0,5.0,Lahore,"Lahore Motorway City - Block T Prime, Lahore Motorway City",House
+60000000.0,2700.0,6.0,7.0,Lahore,"Lake City - Sector M-3A, Lake City",House
+41500000.0,1575.0,6.0,7.0,Lahore,"Lake City - Sector M-7A, Lake City",House
+31500000.0,1125.0,4.0,5.0,Lahore,"Lake City, Raiwind Road",House
+65000000.0,4500.0,5.0,6.0,Lahore,"Johar Town, Lahore",House
+280000000.0,9000.0,5.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+35000000.0,1800.0,6.0,7.0,Lahore,"Johar Town Phase 1, Johar Town",House
+44000000.0,2250.0,6.0,7.0,Lahore,"LDA Avenue, Lahore",House
+86500000.0,5400.0,6.0,7.0,Lahore,"DHA Phase 6, DHA Defence",House
+22000000.0,1350.0,3.0,4.0,Lahore,"Al-Kabir Phase 2 - Block C, Al-Kabir Town - Phase 2",House
+44000000.0,2250.0,5.0,6.0,Lahore,"Lake City Meadows, Lahore",House
+20000000.0,1350.0,3.0,4.0,Lahore,"T & T Aabpara Housing Society, Lahore",House
+32000000.0,2250.0,3.0,4.0,Lahore,"Askari 11, Askari",Flat
+16000000.0,1125.0,4.0,4.0,Lahore,"Park View City - Platinum Block, Park View City",House
+129900000.0,4500.0,5.0,6.0,Lahore,"Lake City - Sector M-3, Lake City",House
+44000000.0,1597.5,3.0,3.0,Lahore,"Penta Square By DHA Lahore, DHA Phase 5",Flat
+43000000.0,1642.5,2.0,3.0,Lahore,"Goldcrest Mall & Residency, DHA Phase 4",Flat
+220000000.0,4500.0,6.0,6.0,Lahore,"DHA Phase 5, DHA Defence",House
+26000000.0,787.5,1.0,2.0,Lahore,"Penta Square By DHA Lahore, DHA Phase 5",Flat
+29700000.000000004,1125.0,4.0,5.0,Lahore,"Lake City - Sector M-7B, Lake City",House
+77500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block W, DHA Phase 7",House
+34400000.0,1125.0,5.0,6.0,Lahore,"Johar Town Phase 2, Johar Town",House
+51000000.0,2250.0,6.0,7.0,Lahore,"Johar Town Phase 1, Johar Town",House
+31500000.0,2250.0,5.0,6.0,Lahore,"Park View City, Lahore",House
+16500000.0,1125.0,4.0,5.0,Lahore,"Park View City, Lahore",House
+31000000.0,2250.0,5.0,6.0,Lahore,"Park View City, Lahore",House
+75000000.0,3600.0,5.0,7.0,Lahore,"Bahria Town - Sector C, Bahria Town",House
+34000000.0,2025.0,4.0,5.0,Lahore,"Bankers Avenue Cooperative Housing Society, Lahore",House
+39500000.0,1575.0,6.0,6.0,Lahore,"Lake City, Raiwind Road",House
+27500000.0,1125.0,3.0,5.0,Lahore,"DHA 9 Town - Block D, DHA 9 Town",House
+73500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block R, DHA Phase 7",House
+23000000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town - Block D, DHA 9 Town",House
+77000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+83500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block T, DHA Phase 7",House
+59500000.0,4500.0,5.0,6.0,Lahore,"Lake City Meadows, Lahore",House
+29900000.000000004,1125.0,4.0,5.0,Lahore,"Lake City - Sector M7 - Block C1, Lake City - Sector M-7",House
+129000000.0,4500.0,6.0,7.0,Lahore,"Lake City - Sector M-3, Lake City",House
+160000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 5 - Block L, DHA Phase 5",House
+12000000.0,540.0,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+14000000.0,675.0,3.0,4.0,Lahore,"Al-Kabir Phase 2 - Usman Block, Al-Kabir Town - Phase 2",House
+18500000.0,450.0,1.0,1.0,Lahore,"DHA Phase 6, DHA Defence",Flat
+14500000.0,675.0,1.0,1.0,Lahore,"Gulberg 3 - Block L, Gulberg 3",Flat
+113800000.0,4500.0,5.0,7.0,Lahore,"Bahria Town - Jasmine Block, Bahria Town - Sector C",House
+24500000.0,1125.0,5.0,6.0,Lahore,"Al-Hamd Gardens, Pine Avenue",House
+36500000.0,2250.0,4.0,4.0,Lahore,"Eden Palace Villas, Eden",House
+29000000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town, DHA Defence",House
+17500000.0,1125.0,3.0,5.0,Lahore,"Bahria Orchard Phase 1 - Eastern Extension, Bahria Orchard Phase 1",House
+18500000.0,1125.0,3.0,5.0,Lahore,"Bahria Orchard Phase 2, Bahria Orchard",House
+18000000.0,1125.0,3.0,4.0,Lahore,"Bahria Orchard Phase 2, Bahria Orchard",House
+6500000.0,495.00000000000006,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",House
+79000000.0,4500.0,5.0,6.0,Lahore,"Bahria Town - Nishtar Block, Bahria Town - Sector E",House
+115000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block L, DHA Phase 6",House
+55000000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 5 - Block D, DHA Phase 5",House
+19000000.0,1125.0,3.0,4.0,Lahore,"Canal Garden, Lahore",House
+92500000.0,4500.0,6.0,6.0,Lahore,"DHA Phase 6 - Block K, DHA Phase 6",House
+21500000.0,1125.0,5.0,6.0,Lahore,"Nasheman-e-Iqbal Phase 2, Nasheman-e-Iqbal",House
+42500000.0,2250.0,6.0,7.0,Lahore,"LDA Avenue - Block J, LDA Avenue",House
+87500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block D, DHA Phase 6",House
+57000000.0,2250.0,5.0,6.0,Lahore,"Lake City Meadows Phase 1 - Block F, Lake City Meadows Phase 1",House
+13000000.0,675.0,3.0,5.0,Lahore,"Al Rehman Garden Phase 2, Al Rehman Garden",House
+8800000.0,180.0,1.0,1.0,Lahore,"Mian Mehmood Ali Kasoori Road, Gulberg",Flat
+15000000.0,675.0,3.0,4.0,Lahore,"Al-Kabir Phase 2 - Block E, Al-Kabir Town - Phase 2",House
+9500000.0,675.0,3.0,3.0,Lahore,"Al Haram Garden, Lahore",House
+13000000.0,675.0,3.0,4.0,Lahore,"Formanites Housing Scheme, Lahore",House
+16500000.0,1125.0,3.0,4.0,Lahore,"Formanites Housing Scheme, Lahore",House
+59000000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Quaid Block, Bahria Town - Sector E",House
+18500000.0,1125.0,3.0,5.0,Lahore,"Bahria Orchard, Lahore",House
+8000000.0,495.00000000000006,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+21000000.0,1125.0,4.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+7000000.0,517.5,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+79900000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block W, DHA Phase 7",House
+87500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block F, DHA Phase 6",House
+49500000.0,1462.5,5.0,6.0,Lahore,"DHA 9 Town - Block B, DHA 9 Town",House
+179899999.99999997,4500.0,6.0,7.0,Lahore,"DHA Phase 6, DHA Defence",House
+97000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+89500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+15500000.0,675.0,4.0,4.0,Lahore,"Samanabad, Lahore",House
+99500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block L, DHA Phase 6",House
+83500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block R, DHA Phase 7",House
+40000000.0,1800.0,5.0,6.0,Lahore,"Al Rehman Garden Phase 2, Al Rehman Garden",House
+84000000.0,4500.0,9.0,6.0,Lahore,"Al Rehman Phase 2 - Block L, Al Rehman Garden Phase 2",House
+23800000.0,900.0,4.0,4.0,Lahore,"Marghzar Officers Colony, Lahore",House
+14000000.0,675.0,3.0,4.0,Lahore,"Al-Kabir Phase 2 - Block E, Al-Kabir Town - Phase 2",House
+51000000.0,2250.0,5.0,7.0,Lahore,"Wapda Town Phase 1, Wapda Town",House
+76500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block Q, DHA Phase 7",House
+35000000.0,2250.0,5.0,6.0,Lahore,"LDA Avenue - Block J, LDA Avenue",House
+6500000.0,540.0,1.0,1.0,Lahore,"Bahria Town - Talha Block, Bahria Town - Sector E",Flat
+12500000.0,810.0,2.0,2.0,Lahore,"Bahria Town - Sector C, Bahria Town",Flat
+10000000.0,495.00000000000006,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+50000000.0,2295.0,5.0,6.0,Lahore,"Al Rehman Garden Phase 2, Al Rehman Garden",House
+18000000.0,990.0,2.0,2.0,Lahore,"Bahria Town - Johar Block, Bahria Town - Sector E",Flat
+38000000.0,2250.0,6.0,6.0,Lahore,"Bagh-e-Iram Housing Society, Lahore",House
+129000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block L, DHA Phase 6",House
+179899999.99999997,9000.0,6.0,7.0,Lahore,"DHA Phase 6, DHA Defence",House
+136500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 5, DHA Defence",House
+84900000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+259900000.0,9000.0,6.0,7.0,Lahore,"DHA Phase 5, DHA Defence",House
+36300000.0,855.0,1.0,1.0,Lahore,"Swiss Mall Gulberg, MM Alam Road",House
+35000000.0,1125.0,3.0,3.0,Lahore,"DHA Phase 3 - Block XX, DHA Phase 3",House
+23500000.0,1125.0,3.0,5.0,Lahore,"DHA 9 Town, DHA Defence",House
+21000000.0,1800.0,5.0,5.0,Lahore,"Hajvery Housing Scheme, Lahore",House
+25000000.0,1125.0,4.0,5.0,Lahore,"Lake City - Sector M-7B, Lake City",House
+29900000.000000004,1125.0,3.0,4.0,Lahore,"DHA 9 Town, DHA Defence",House
+9500000.0,562.5,3.0,3.0,Lahore,"Nishtar Colony, Lahore",House
+8000000.0,562.5,3.0,3.0,Lahore,"Nishtar Colony, Lahore",House
+55000000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 8 - Ex Air Avenue, DHA Phase 8",House
+49500000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 6, DHA Defence",House
+8400000.0,247.50000000000003,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+7400000.0,472.5,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+22500000.0,1125.0,5.0,5.0,Lahore,"Al Rehman Garden Phase 2, Al Rehman Garden",House
+16000000.0,990.0,2.0,2.0,Lahore,"Bahria Town - Johar Block, Bahria Town - Sector E",Flat
+30000000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town - Block B, DHA 9 Town",House
+13300000.0,742.5,2.0,2.0,Lahore,"Bahria Town - Sector D, Bahria Town",Flat
+159500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 5, DHA Defence",House
+48000000.0,2250.0,5.0,5.0,Lahore,"DHA Phase 7 - Block Y, DHA Phase 7",House
+51000000.0,2250.0,5.0,5.0,Lahore,"DHA Phase 7 - Block Y, DHA Phase 7",House
+45000000.0,2250.0,4.0,5.0,Lahore,"Air Avenue - Block L, DHA Phase 8 - Ex Air Avenue",House
+38000000.0,2250.0,6.0,6.0,Lahore,"Jubilee Town - Block B, Jubilee Town",House
+67500000.0,3150.0,7.0,6.0,Lahore,"Divine Gardens - Block A, Divine Gardens",House
+17000000.0,675.0,3.0,4.0,Lahore,"80 Feet Road, Marghzar Officers Colony",House
+197500000.0,4500.0,7.0,7.0,Lahore,"DHA Phase 7 - Block W, DHA Phase 7",House
+79500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+29500000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town - Block B, DHA 9 Town",House
+99000000.0,3375.0,5.0,5.0,Lahore,"Askari 10 - Sector S, Askari 10",House
+55000000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 4, DHA Defence",House
+9500000.0,675.0,3.0,3.0,Lahore,"Lalpul, Mughalpura",House
+5500000.0,360.0,3.0,3.0,Lahore,"Nishtar Colony, Lahore",House
+4850000.0,450.0,2.0,2.0,Lahore,"Ferozepur Road, Lahore",House
+67000000.0,4500.0,5.0,6.0,Lahore,"Lake City Meadows Phase 1, Lake City Meadows",House
+9000000.0,495.00000000000006,1.0,1.0,Lahore,"Bahria Town - Johar Block, Bahria Town - Sector E",Flat
+13500000.0,675.0,3.0,3.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+44500000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 7 - Block U, DHA Phase 7",House
+48000000.0,2250.0,6.0,6.0,Lahore,"PGECHS Phase 2, Punjab Govt Employees Society",House
+80000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block K, DHA Phase 6",House
+58000000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 5 - Block L, DHA Phase 5",House
+38500000.0,2250.0,6.0,7.0,Lahore,"Jubilee Town, Lahore",House
+69900000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 4, DHA Defence",House
+15900000.0,765.0,1.0,1.0,Lahore,"Johar Town Phase 2 - Block G4, Johar Town Phase 2",House
+150000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 8 - Block W, DHA Phase 8",House
+14000000.0,1057.5,2.0,2.0,Lahore,"Air Avenue Luxury Apartments, DHA Phase 8",Flat
+16000000.0,832.5,3.0,3.0,Lahore,"Samanabad, Lahore",House
+35000000.0,2250.0,3.0,3.0,Lahore,"Askari 10 - Sector F, Askari 10",Flat
+34000000.0,2250.0,3.0,3.0,Lahore,"Askari 10 - Sector F, Askari 10",Flat
+60000000.0,2250.0,6.0,6.0,Lahore,"Lake City - Sector M-6, Lake City",House
+48000000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Janiper Block, Bahria Town - Sector C",House
+52000000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Jasmine Block, Bahria Town - Sector C",House
+29500000.0,1125.0,3.0,4.0,Lahore,"Bahria Town - Jinnah Block, Bahria Town - Sector E",House
+17500000.0,1125.0,3.0,3.0,Lahore,"Khayaban-e-Amin - Block L, Khayaban-e-Amin",House
+13300000.0,742.5,2.0,2.0,Lahore,"Bahria Town - Sector B, Bahria Town",Flat
+8280000.0,450.0,1.0,1.0,Lahore,"Bahria Town - Sector B, Bahria Town",Flat
+69000000.0,4050.0,5.0,6.0,Lahore,"Lake City Meadows Phase 1 - Block E, Lake City Meadows Phase 1",House
+19500000.0,1125.0,3.0,3.0,Lahore,"Lake City Meadows Phase 1 - Block F, Lake City Meadows Phase 1",House
+47500000.0,2250.0,5.0,6.0,Lahore,"Lake City Meadows Phase 1, Lake City Meadows",House
+27000000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town - Block A, DHA 9 Town",House
+42000000.0,2250.0,5.0,5.0,Lahore,"Formanites Housing Scheme - Block N, Formanites Housing Scheme",House
+58000000.0,4500.0,5.0,5.0,Lahore,"Lake City Meadows Phase 1 - Block D, Lake City Meadows Phase 1",House
+34500000.0,2025.0,5.0,5.0,Lahore,"Bankers Avenue Cooperative Housing Society, Lahore",House
+37500000.0,2025.0,4.0,5.0,Lahore,"Bankers Avenue Cooperative Housing Society, Lahore",House
+32500000.0,2250.0,3.0,4.0,Lahore,"Askari 11 - Sector B Apartments, Askari 11",Flat
+45000000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 7, DHA Defence",House
+24500000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town, DHA Defence",House
+60000000.0,4500.0,7.0,7.0,Lahore,"Iqbal Avenue Phase 1, Iqbal Avenue",House
+38000000.0,2250.0,3.0,4.0,Lahore,"DHA Phase 3 - Block Z, DHA Phase 3",House
+24500000.0,1282.5,3.0,4.0,Lahore,"Dream Gardens, Defence Road",House
+67000000.0,3150.0,7.0,3.0,Lahore,"Cantt, Lahore",House
+18500000.0,900.0,3.0,4.0,Lahore,"Al-Ahmad Garden Housing Scheme, GT Road",House
+45000000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 7 - Block U, DHA Phase 7",House
+55800000.0,2250.0,5.0,6.0,Lahore,"Wapda Town Phase 1, Wapda Town",House
+14000000.0,1125.0,3.0,4.0,Lahore,"Bahria Nasheman, Lahore",House
+12900000.0,450.0,4.0,4.0,Lahore,"Marghzar Officers Colony, Lahore",House
+147500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 5 - Block G, DHA Phase 5",House
+105000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block M, DHA Phase 6",House
+165000000.0,9000.0,6.0,6.0,Lahore,"DHA Phase 3 - Block X, DHA Phase 3",House
+19500000.0,1125.0,3.0,4.0,Lahore,"Bahria Orchard Phase 1, Bahria Orchard",House
+4500000.0,315.0,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+23500000.0,1125.0,4.0,4.0,Lahore,"Park View City - Tulip Block, Park View City",House
+24500000.0,1125.0,4.0,4.0,Lahore,"Park View City - Executive Block, Park View City",House
+12000000.0,1125.0,3.0,4.0,Lahore,"Bahria Orchard, Lahore",House
+16000000.0,1800.0,2.0,3.0,Lahore,"Bahria Orchard, Lahore",House
+5500000.0,1125.0,2.0,2.0,Lahore,"Bahria Orchard Phase 4, Bahria Orchard",Flat
+45000000.0,2025.0,5.0,6.0,Lahore,"Lake City Meadows, Lahore",House
+77500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block U, DHA Phase 7",House
+17500000.0,1125.0,4.0,4.0,Lahore,"Park View City, Lahore",House
+26000000.0,1125.0,4.0,4.0,Lahore,"DHA 9 Town, DHA Defence",House
+103000000.0,3375.0,5.0,6.0,Lahore,"Askari 10 - Sector S, Askari 10",House
+21500000.0,1125.0,4.0,5.0,Lahore,"Al-Ahmad Garden Housing Scheme, GT Road",House
+14500000.0,675.0,3.0,4.0,Lahore,"Al Hafeez Gardens, GT Road",House
+52500000.0,2250.0,5.0,5.0,Lahore,"Allama Iqbal Town, Lahore",House
+39500000.0,1800.0,7.0,8.0,Lahore,"Chaman Park, Lahore",House
+11500000.0,630.0,3.0,2.0,Lahore,"GT Road, Lahore",House
+25000000.0,2250.0,3.0,3.0,Lahore,"PCSIR Staff Colony, Lahore",House
+61400000.0,2250.0,8.0,6.0,Lahore,"Allama Iqbal Town, Lahore",House
+65000000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 4 - Block EE, DHA Phase 4",House
+125000000.0,4500.0,7.0,6.0,Lahore,"DHA Phase 4, DHA Defence",House
+90000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 4 - Block GG, DHA Phase 4",House
+95000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 3 - Block X, DHA Phase 3",House
+76500000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 5 - Block D, DHA Phase 5",House
+75000000.0,4500.0,5.0,6.0,Lahore,"Lake City Meadows, Lahore",House
+31500000.0,2250.0,2.0,3.0,Lahore,"Lake City Meadows, Lahore",House
+12000000.0,562.5,3.0,3.0,Lahore,"Ali Town, Lahore",House
+30000000.0,1125.0,8.0,7.0,Lahore,"Sultan Town, Lahore",House
+63500000.0,1800.0,5.0,6.0,Lahore,"Johar Town Phase 2, Johar Town",House
+84100000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block D, DHA Phase 6",House
+24600000.0,697.5,1.0,1.0,Lahore,"Gulberg, Lahore",House
+45000000.0,1282.5,2.0,3.0,Lahore,"Gulberg, Lahore",House
+115000000.0,4500.0,5.0,6.0,Lahore,"Askari 10 - Sector D, Askari 10",House
+27500000.0,2250.0,3.0,3.0,Lahore,"Aamir Town, Harbanspura",House
+24500000.0,1125.0,4.0,5.0,Lahore,"Johar Town Phase 1 - Block A1, Johar Town Phase 1",House
+15500000.0,1125.0,3.0,3.0,Lahore,"Bahria Nasheman, Lahore",House
+17000000.0,675.0,3.0,4.0,Lahore,"Jubilee Town - Block C, Jubilee Town",House
+81500000.0,4500.0,5.0,7.0,Lahore,"DHA Phase 5, DHA Defence",House
+22000000.0,1125.0,4.0,5.0,Lahore,"Central Park Housing Scheme, Lahore",House
+11500000.0,787.5,1.0,1.0,Lahore,"The Spring Apartment Homes, Main Canal Bank Road",Flat
+66000000.0,2250.0,7.0,6.0,Lahore,"Allama Iqbal Town, Lahore",House
+155000000.0,9000.0,6.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+22000000.0,1125.0,4.0,5.0,Lahore,"Park View City, Lahore",House
+44700000.0,1687.5,5.0,6.0,Lahore,"Johar Town Phase 2, Johar Town",House
+26500000.0,1125.0,4.0,4.0,Lahore,"Pak Arab Housing Society, Lahore",House
+31000000.0,1125.0,5.0,6.0,Lahore,"Lake City Sector M8 - Block B1, Lake City - Sector M-8",House
+17000000.0,675.0,4.0,5.0,Lahore,"Al-Kabir Phase 2 - Ali Block, Al-Kabir Town - Phase 2",House
+51500000.0,2250.0,4.0,5.0,Lahore,"DHA Phase 6, DHA Defence",House
+73500000.0,4500.0,5.0,7.0,Lahore,"DHA Phase 7 - Block S, DHA Phase 7",House
+29000000.0,1800.0,5.0,6.0,Lahore,"Low Cost - Block D, Low Cost Sector",House
+65000000.0,4500.0,6.0,7.0,Lahore,"Wapda Town, Lahore",House
+65000000.0,4500.0,6.0,7.0,Lahore,"Valencia Housing Society, Lahore",House
+52500000.0,2250.0,5.0,6.0,Lahore,"DHA 11 Rahbar Sector 1, DHA 11 Rahbar",House
+24000000.0,1125.0,4.0,4.0,Lahore,"Johar Town Phase 1 - Block A, Johar Town Phase 1",House
+5200000.0,292.5,1.0,1.0,Lahore,"Bahria Town - Sector B, Bahria Town",Flat
+20500000.0,1125.0,4.0,4.0,Lahore,"Park View City, Lahore",House
+22000000.0,1125.0,6.0,6.0,Lahore,"Park View City, Lahore",House
+22000000.0,1125.0,4.0,4.0,Lahore,"Park View City, Lahore",House
+22500000.0,1125.0,5.0,5.0,Lahore,"Park View City - Tulip Block, Park View City",House
+13000000.0,675.0,3.0,4.0,Lahore,"Al Rehman Garden Phase 2, Al Rehman Garden",House
+125000000.0,5400.0,4.0,4.0,Lahore,"Cavalry Ground, Lahore",House
+8500000.0,945.0,2.0,2.0,Lahore,"Al-Kabir Town - Phase 1, Al-Kabir Town",Flat
+24000000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town - Block A, DHA 9 Town",House
+26000000.0,1125.0,5.0,6.0,Lahore,"Jubilee Town, Lahore",House
+30000000.0,1125.0,3.0,4.0,Lahore,"Etihad Town, Raiwind Road",House
+50000000.0,2250.0,6.0,6.0,Lahore,"LDA Avenue, Lahore",House
+41200000.0,2700.0,4.0,5.0,Lahore,"Askari 10 - Sector S, Askari 10",Flat
+28500000.0,2250.0,3.0,3.0,Lahore,"Askari 11, Askari",Flat
+46000000.0,2250.0,3.0,4.0,Lahore,"Askari 11 - Sector B, Askari 11",House
+89500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block C, DHA Phase 6",House
+37500000.0,2250.0,5.0,6.0,Lahore,"Formanities Housing Scheme - Block MM, Formanites Housing Scheme",House
+45000000.0,3375.0,5.0,6.0,Lahore,"Punjab University Employees Society, Lahore",House
+42500000.0,1800.0,6.0,6.0,Lahore,"Izmir Town Extension - Block P1, Izmir Town Extension",House
+69500000.0,2700.0,6.0,6.0,Lahore,"Johar Town, Lahore",House
+48500000.0,2250.0,5.0,6.0,Lahore,"PIA Housing Scheme, Lahore",House
+23000000.0,1125.0,4.0,4.0,Lahore,"Park View City - Jade Extension Block, Park View City",House
+19000000.0,1125.0,4.0,4.0,Lahore,"Park View City, Lahore",House
+21000000.0,1125.0,4.0,4.0,Lahore,"Park View City - Tulip Extension Block, Park View City",House
+15000000.0,1125.0,4.0,5.0,Lahore,"Park View City, Lahore",House
+18000000.0,1125.0,4.0,5.0,Lahore,"Park View City, Lahore",House
+72500000.0,4500.0,6.0,6.0,Lahore,"DHA Phase 3 - Block W, DHA Phase 3",House
+42500000.0,2250.0,4.0,4.0,Lahore,"Green City, Lahore",House
+36500000.0,2250.0,3.0,3.0,Lahore,"Askari 10 - Sector F, Askari 10",Flat
+35000000.0,2250.0,3.0,3.0,Lahore,"Askari 11, Askari",Flat
+33000000.0,2700.0,4.0,5.0,Lahore,"Askari 11, Askari",Flat
+37000000.0,2250.0,5.0,6.0,Lahore,"Formanities Housing Scheme - Block MM, Formanites Housing Scheme",House
+39000000.0,1125.0,5.0,6.0,Lahore,"Johar Town, Lahore",House
+55000000.0,2700.0,5.0,5.0,Lahore,"Cantt, Lahore",House
+70000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block Y, DHA Phase 7",House
+110000000.0,4500.0,6.0,6.0,Lahore,"DHA Phase 6 - Block K, DHA Phase 6",House
+46500000.0,2250.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+14000000.0,675.0,4.0,3.0,Lahore,"Al-Kabir Phase 2 - Block E, Al-Kabir Town - Phase 2",House
+13500000.0,675.0,3.0,3.0,Lahore,"Al-Kabir Phase 2 - Block E, Al-Kabir Town - Phase 2",House
+69000000.0,4500.0,5.0,6.0,Lahore,"Bahria Town - Overseas B, Bahria Town - Overseas Enclave",House
+15300000.0,630.0,1.0,1.0,Lahore,"Jinnah Square Residential Apartment, Khayaban-e-Jinnah Road",Flat
+35500000.0,1125.0,5.0,5.0,Lahore,"Johar Town Phase 2, Johar Town",House
+34000000.0,1125.0,5.0,6.0,Lahore,"Johar Town, Lahore",House
+17500000.0,1125.0,4.0,5.0,Lahore,"Park View City, Lahore",House
+24500000.0,1125.0,4.0,4.0,Lahore,"Park View City - Rose Block, Park View City",House
+15000000.0,787.5,3.0,4.0,Lahore,"Paragon City, Lahore",House
+5500000.0,540.0,1.0,1.0,Lahore,"Bahria Town - Sector C, Bahria Town",Flat
+9000000.0,990.0,2.0,2.0,Lahore,"Bahria Town - Sector C, Bahria Town",Flat
+32500000.0,1125.0,6.0,7.0,Lahore,"Johar Town Phase 2, Johar Town",House
+34500000.0,1125.0,5.0,6.0,Lahore,"Johar Town Phase 2, Johar Town",House
+67000000.0,2250.0,6.0,6.0,Lahore,"Faisal Town, Lahore",House
+110000000.0,4500.0,6.0,6.0,Lahore,"Airline Housing Society, Lahore",House
+54000000.0,2700.0,6.0,6.0,Lahore,"Johar Town, Lahore",House
+120000000.0,4500.0,6.0,6.0,Lahore,"Wapda Town Phase 1, Wapda Town",House
+38000000.0,2250.0,6.0,6.0,Lahore,"Architects Engineers Housing Society, Lahore",House
+52000000.0,2250.0,6.0,6.0,Lahore,"Johar Town, Lahore",House
+79000000.0,4500.0,5.0,6.0,Lahore,"Lake City - Sector M-2, Lake City",House
+43500000.0,2250.0,6.0,7.0,Lahore,"Jubilee Town, Lahore",House
+36000000.0,2250.0,6.0,7.0,Lahore,"LDA Avenue - Block M, LDA Avenue",House
+95000000.0,4500.0,5.0,5.0,Lahore,"DHA Phase 8, DHA Defence",House
+7030000.0,427.5,1.0,1.0,Lahore,"Beach Resort, Raiwind Road",House
+6890000.000000001,427.5,1.0,1.0,Lahore,"Beach Resort, Raiwind Road",House
+7170000.0,450.0,1.0,1.0,Lahore,"Beach Resort, Raiwind Road",House
+9240000.0,472.5,1.0,1.0,Lahore,"Beach Resort, Raiwind Road",House
+37200000.0,1125.0,5.0,6.0,Lahore,"Johar Town Phase 2, Johar Town",House
+88000000.0,4500.0,5.0,6.0,Lahore,"Valencia Housing Society, Lahore",House
+26200000.0,607.5,1.0,1.0,Lahore,"Zameen EON, NSIT City",Flat
+8173999.999999999,900.0,2.0,2.0,Lahore,"Icon Valley Phase 2, Raiwind Road",House
+17400000.0,382.5,1.0,1.0,Lahore,"Zameen Hive, Gulberg 3",House
+6987000.0,405.0,0.0,1.0,Lahore,"Marbella Drive Residency, Raiwind Road",Plot
+23000000.0,1125.0,6.0,6.0,Lahore,"Jubilee Town - Block E, Jubilee Town",House
+85000000.0,4500.0,5.0,6.0,Lahore,"Wapda Town Phase 1, Wapda Town",House
+160000000.0,9000.0,6.0,6.0,Lahore,"Valencia Housing Society, Lahore",House
+95000000.0,4500.0,6.0,6.0,Lahore,"Wapda Town Phase 1, Wapda Town",House
+55000000.0,2812.5,6.0,6.0,Lahore,"Johar Town Phase 1, Johar Town",House
+55500000.0,2250.0,5.0,6.0,Lahore,"Wapda Town Phase 1, Wapda Town",House
+50000000.0,2250.0,5.0,6.0,Lahore,"PIA Housing Scheme, Lahore",House
+80000000.0,4500.0,5.0,5.0,Lahore,"DHA Phase 8, DHA Defence",House
+30000000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Jasmine Block, Bahria Town - Sector C",House
+17500000.0,1125.0,4.0,4.0,Lahore,"Park View City - Platinum Block, Park View City",House
+25200000.0,967.5,2.0,2.0,Lahore,"J Heights, Raiwind Road",House
+62500000.0,2700.0,6.0,6.0,Lahore,"Johar Town Phase 2, Johar Town",House
+305000000.0,9000.0,6.0,7.0,Lahore,"DHA Phase 8 - Block T, DHA Phase 8",House
+76000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7, DHA Defence",House
+75000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block P, DHA Phase 7",House
+3500000.0,900.0,2.0,2.0,Lahore,"Khayaban-e-Amin - Block P, Khayaban-e-Amin",Flat
+135000000.0,4500.0,5.0,7.0,Lahore,"DHA Phase 7 - Block X, DHA Phase 7",House
+92500000.0,4050.0,5.0,6.0,Lahore,"PCSIR Housing Scheme Phase 2, PCSIR Housing Scheme",House
+92500000.0,4500.0,5.0,6.0,Lahore,"Johar Town, Lahore",House
+58000000.0,2250.0,5.0,6.0,Lahore,"Wapda Town, Lahore",House
+75000000.0,4500.0,6.0,7.0,Lahore,"Johar Town, Lahore",House
+95000000.0,4500.0,5.0,6.0,Lahore,"Johar Town, Lahore",House
+21000000.0,1125.0,3.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+35000000.0,2250.0,6.0,6.0,Lahore,"LDA Avenue, Lahore",House
+21000000.0,1125.0,5.0,6.0,Lahore,"Jubilee Town, Lahore",House
+33500000.0,2250.0,6.0,7.0,Lahore,"LDA Avenue, Lahore",House
+32000000.0,1125.0,4.0,5.0,Lahore,"Lake City, Raiwind Road",House
+18000000.0,1125.0,3.0,4.0,Lahore,"Bahria Orchard Phase 1 - Eastern, Bahria Orchard Phase 1",House
+28000000.0,1125.0,4.0,4.0,Lahore,"Lake City, Raiwind Road",House
+15900000.0,765.0,1.0,1.0,Lahore,"Main Canal Bank Road, Lahore",House
+27700000.0,607.5,1.0,1.0,Lahore,"Zameen Hive, Gulberg 3",House
+19900000.0,1125.0,3.0,4.0,Lahore,"Lake City Meadows, Lahore",House
+66800000.0,2250.0,5.0,6.0,Lahore,"Faisal Town, Lahore",House
+81000000.0,4500.0,6.0,6.0,Lahore,"Johar Town Phase 2, Johar Town",House
+22500000.0,1125.0,3.0,4.0,Lahore,"DHA 11 Rahbar, Lahore",House
+40000000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Nishtar Block, Bahria Town - Sector E",House
+9312000.0,630.0,1.0,1.0,Lahore,"Sukh Chayn Gardens, Lahore",House
+19500000.0,1125.0,3.0,4.0,Lahore,"Bahria Orchard Phase 2, Bahria Orchard",House
+38000000.0,2250.0,6.0,7.0,Lahore,"LDA Avenue, Lahore",House
+31500000.0,1125.0,5.0,6.0,Lahore,"Johar Town Phase 1, Johar Town",House
+24000000.0,1125.0,6.0,6.0,Lahore,"Jubilee Town, Lahore",House
+29500000.0,1800.0,5.0,6.0,Lahore,"Johar Town, Lahore",House
+5000000.0,360.0,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+6500000.0,450.0,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+43000000.0,2700.0,4.0,5.0,Lahore,"Askari 10, Askari",Flat
+75000000.0,4500.0,5.0,6.0,Lahore,"Lake City Meadows Phase 1 - Block E, Lake City Meadows Phase 1",House
+78500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block Y, DHA Phase 7",House
+30500000.0,1125.0,3.0,3.0,Lahore,"Etihad Town Phase 1, Etihad Town",House
+18000000.0,1125.0,4.0,3.0,Lahore,"Bahria Orchard Phase 1, Bahria Orchard",House
+35000000.0,2700.0,4.0,5.0,Lahore,"Askari 11 - Sector B, Askari 11",Flat
+138000000.0,4500.0,5.0,5.0,Lahore,"PAF Falcon Complex, Gulberg",House
+150000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 8, DHA Defence",House
+50000000.0,2497.5,3.0,3.0,Lahore,"Askari 11, Askari",House
+33800000.0,1125.0,5.0,6.0,Lahore,"Johar Town Phase 2, Johar Town",House
+12600000.0,607.5,1.0,1.0,Lahore,"Zameen Opal, Land Breeze Housing Society",Flat
+8700000.0,900.0,2.0,2.0,Lahore,"Icon Valley Phase 2, Raiwind Road",House
+44000000.0,2250.0,5.0,7.0,Lahore,"Bahria Town - Janiper Block, Bahria Town - Sector C",House
+36000000.0,2250.0,5.0,6.0,Lahore,"Bahria Orchard, Lahore",House
+22000000.0,1125.0,3.0,5.0,Lahore,"Bahria Orchard, Lahore",House
+12500000.0,810.0,2.0,2.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+8800000.0,495.00000000000006,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+13500000.0,810.0,2.0,2.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+27000000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town, DHA Defence",House
+24200000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town, DHA Defence",House
+36000000.0,2250.0,5.0,6.0,Lahore,"LDA Avenue - Block J, LDA Avenue",House
+10500000.0,990.0,2.0,2.0,Lahore,"Union Town - Block C, Union Town",House
+52500000.0,2250.0,4.0,5.0,Lahore,"Lake City Meadows, Lahore",House
+12500000.0,1125.0,3.0,3.0,Lahore,"Bahria Orchard Phase 1 - Eastern Extension, Bahria Orchard Phase 1",House
+11500000.0,675.0,3.0,3.0,Lahore,"Central Cottages Housing Scheme, Ferozepur Road",House
+15800000.0,1125.0,2.0,3.0,Lahore,"Eden Boulevard Housing Scheme, College Road",House
+7000000.0,450.0,1.0,1.0,Lahore,"Etihad Town Phase 1, Etihad Town",House
+21000000.0,1800.0,4.0,5.0,Lahore,"Marghzar Officers Colony - Block R, Marghzar Officers Colony",House
+130000000.0,4500.0,5.0,5.0,Lahore,"Township - Sector A1, Township",House
+27800000.0,1125.0,3.0,3.0,Lahore,"Wapda Town, Lahore",House
+6300000.0,405.0,1.0,1.0,Lahore,"Johar Town Phase 2, Johar Town",Flat
+32500000.0,2250.0,5.0,6.0,Lahore,"Bahria Orchard, Lahore",House
+32500000.0,2250.0,5.0,6.0,Lahore,"Nasheman-e-Iqbal Phase 2, Nasheman-e-Iqbal",House
+41000000.0,4500.0,5.0,4.0,Lahore,"Model Town - Block R, Model Town",House
+16500000.0,900.0,3.0,4.0,Lahore,"PCSIR Staff Colony, Lahore",House
+54500000.0,4500.0,10.0,6.0,Lahore,"PCSIR Staff Colony, Lahore",House
+120000000.0,3600.0,4.0,5.0,Lahore,"Cavalry Ground, Lahore",House
+38000000.0,2250.0,6.0,6.0,Lahore,"Bahria Orchard Phase 1 - Central, Bahria Orchard Phase 1",House
+38500000.0,2250.0,5.0,6.0,Lahore,"Bahria Orchard Phase 1 - Eastern, Bahria Orchard Phase 1",House
+39900000.0,2475.0,5.0,5.0,Lahore,"Low Cost - Block H, Low Cost Sector",House
+39000000.0,2250.0,5.0,7.0,Lahore,"Bahria Orchard Phase 1 - Southern, Bahria Orchard Phase 1",House
+19500000.0,1800.0,5.0,6.0,Lahore,"Bahria Orchard Phase 2, Bahria Orchard",House
+12500000.0,675.0,3.0,3.0,Lahore,"Al-Kabir Phase 2 - Block B, Al-Kabir Town - Phase 2",House
+115000000.0,3825.0,5.0,6.0,Lahore,"Askari 10 - Sector F, Askari 10",House
+66900000.00000001,2700.0,5.0,7.0,Lahore,"Lake City - Sector M-3A, Lake City",House
+53000000.0,2250.0,4.0,4.0,Lahore,"Lake City - Sector M-2A, Lake City",House
+18500000.0,787.5,3.0,4.0,Lahore,"Sabzazar Scheme - Block P, Sabzazar Scheme",House
+27500000.0,1125.0,6.0,7.0,Lahore,"Sabzazar Scheme - Block L, Sabzazar Scheme",House
+25500000.0,1125.0,5.0,6.0,Lahore,"Sabzazar Scheme - Block P, Sabzazar Scheme",House
+41900000.00000001,1170.0,2.0,3.0,Lahore,"Gulberg, Lahore",Flat
+147500000.0,9000.0,5.0,6.0,Lahore,"DHA Phase 2, DHA Defence",House
+51800000.0,2250.0,5.0,6.0,Lahore,"Johar Town, Lahore",House
+55000000.0,2250.0,5.0,6.0,Lahore,"Wapda Town Phase 1, Wapda Town",House
+6000000.0,562.5,1.0,1.0,Lahore,"College Road, Lahore",House
+18800000.0,900.0,2.0,2.0,Lahore,"Avenue One Square, Pine Avenue",Flat
+85000000.0,4500.0,5.0,6.0,Lahore,"Lake City - Sector M7 - Block A, Lake City - Sector M-7",House
+30900000.0,1215.0,2.0,2.0,Lahore,"Lake City Roof Gardens, Lake City",House
+26000000.0,1125.0,3.0,4.0,Lahore,"DHA 11 Rahbar Sector 2 - Block H, DHA 11 Rahbar Sector 2",House
+50000000.0,2250.0,5.0,5.0,Lahore,"Wapda Town, Lahore",House
+75000000.0,4500.0,5.0,5.0,Lahore,"Model Town, Lahore",House
+11900000.0,900.0,2.0,2.0,Lahore,"Union Town, Abdul Sattar Edhi Road",House
+10900000.0,900.0,2.0,2.0,Lahore,"Union Town, Abdul Sattar Edhi Road",House
+9900000.0,900.0,2.0,2.0,Lahore,"Union Town, Abdul Sattar Edhi Road",House
+50000000.0,2250.0,4.0,4.0,Lahore,"Wapda Town, Lahore",House
+40000000.0,2250.0,4.0,4.0,Lahore,"Wapda Town, Lahore",House
+24000000.0,1125.0,4.0,4.0,Lahore,"DHA 9 Town, DHA Defence",House
+72500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 8, DHA Defence",House
+88500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+190000000.0,9000.0,7.0,7.0,Lahore,"DHA Phase 1, DHA Defence",House
+14500000.0,1440.0,3.0,3.0,Lahore,"Sky View Town, Raiwind Road",Flat
+12000000.0,450.0,3.0,3.0,Lahore,"Tajpura, Lahore",House
+26000000.0,1125.0,4.0,5.0,Lahore,"Al Hafeez Garden - Phase 5, Al Hafeez Gardens",House
+52500000.0,4500.0,5.0,6.0,Lahore,"IEP Engineers Town - Block E1, IEP Engineers Town - Sector A",House
+52200000.0,2250.0,5.0,6.0,Lahore,"Johar Town, Lahore",House
+42900000.0,2250.0,5.0,6.0,Lahore,"Architects Engineers Housing Society, Lahore",House
+6800000.0,360.0,1.0,1.0,Lahore,"Johar Town Phase 1 - Block F, Johar Town Phase 1",Flat
+38500000.0,2250.0,4.0,6.0,Lahore,"Punjab Coop Housing Society, Lahore",House
+58000000.0,2700.0,4.0,5.0,Lahore,"Askari 11 - Sector A, Askari 11",House
+20000000.0,1125.0,3.0,3.0,Lahore,"Wapda Town, Lahore",House
+325000000.0,9000.0,6.0,6.0,Lahore,"DHA Phase 6 - Block K, DHA Phase 6",House
+69000000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block Z1, DHA Phase 7",House
+77500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block S, DHA Phase 7",House
+71500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block P, DHA Phase 7",House
+67500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block P, DHA Phase 7",House
+82500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block D, DHA Phase 6",House
+35000000.0,2925.0,4.0,5.0,Lahore,"Askari 12, DHA Phase 9 Prism",Flat
+18500000.0,1125.0,3.0,4.0,Lahore,"Bahria Town - Jinnah Block, Bahria Town - Sector E",House
+24000000.0,1125.0,3.0,4.0,Lahore,"Eden Boulevard - Block C, Eden Boulevard Housing Scheme",House
+29000000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Jasmine Block, Bahria Town - Sector C",House
+25500000.0,675.0,3.0,4.0,Lahore,"Sabzazar Scheme - Block P, Sabzazar Scheme",House
+62000000.0,2025.0,4.0,5.0,Lahore,"DHA Phase 4 - Block KK, DHA Phase 4",House
+160000000.0,4500.0,6.0,6.0,Lahore,"DHA Phase 6 - Block L, DHA Phase 6",House
+28500000.0,1125.0,4.0,5.0,Lahore,"Lake City, Raiwind Road",House
+43000000.0,2250.0,5.0,6.0,Lahore,"Central Park - Block E, Central Park Housing Scheme",House
+5500000.0,292.5,1.0,1.0,Lahore,"Bahria Town - Sector B, Bahria Town",Flat
+4800000.0,360.0,1.0,1.0,Lahore,"Bahria Town - Tauheed Block, Bahria Town - Sector F",Flat
+139000000.0,4500.0,7.0,6.0,Lahore,"DHA Phase 6 - Block N, DHA Phase 6",House
+105000000.0,4500.0,6.0,6.0,Lahore,"DHA Phase 4 - Block CC, DHA Phase 4",House
+27500000.0,1125.0,3.0,4.0,Lahore,"DHA 9 Town - Block C, DHA 9 Town",House
+58500000.0,4500.0,8.0,6.0,Lahore,"Nasheman-e-Iqbal, Lahore",House
+19500000.0,1125.0,4.0,5.0,Lahore,"Architects Engineers Housing Society, Lahore",House
+97000000.0,4500.0,6.0,6.0,Lahore,"Wapda Town Phase 1, Wapda Town",House
+83500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 4 - Block DD, DHA Phase 4",House
+76500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block T, DHA Phase 7",House
+83500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block D, DHA Phase 6",House
+98500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6 - Block L, DHA Phase 6",House
+21900000.0,877.5,2.0,2.0,Lahore,"Zameen Opal, Land Breeze Housing Society",Flat
+139900000.0,9000.0,7.0,6.0,Lahore,"Wapda Town Phase 1, Wapda Town",House
+68000000.0,2250.0,6.0,6.0,Lahore,"Garden Town, Lahore",House
+31500000.0,2250.0,3.0,3.0,Lahore,"Askari 11, Askari",Flat
+35000000.0,2700.0,4.0,5.0,Lahore,"Askari 11, Askari",Flat
+83000000.0,4500.0,4.0,5.0,Lahore,"Askari 11, Askari",House
+47500000.0,2250.0,3.0,3.0,Lahore,"Askari 11, Askari",House
+34000000.0,2250.0,3.0,3.0,Lahore,"Askari 10, Askari",Flat
+18000000.0,1125.0,4.0,6.0,Lahore,"Al Rehman Garden Phase 2, Al Rehman Garden",House
+45000000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Overseas B, Bahria Town - Overseas Enclave",House
+135000000.0,4500.0,5.0,6.0,Lahore,"Model Town - Block G, Model Town",House
+17000000.0,675.0,4.0,4.0,Lahore,"80 Feet Road, Marghzar Officers Colony",House
+42000000.0,2250.0,5.0,6.0,Lahore,"Punjab Coop Housing Society, Lahore",House
+6500000.0,540.0,1.0,1.0,Lahore,"Bahria Town - Tauheed Block, Bahria Town - Sector F",Flat
+60000000.0,4500.0,5.0,6.0,Lahore,"Bahria Town - Overseas A, Bahria Town - Overseas Enclave",House
+33500000.0,2250.0,3.0,3.0,Lahore,"Wapda Town Phase 2, Wapda Town",House
+29900000.000000004,1237.5,5.0,4.0,Lahore,"Ittehad Colony, Multan Road",House
+29900000.000000004,1125.0,5.0,4.0,Lahore,"Samanabad, Lahore",House
+117500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 5, DHA Defence",House
+75500000.0,2250.0,5.0,6.0,Lahore,"Allama Iqbal Town, Lahore",House
+35800000.0,1125.0,5.0,6.0,Lahore,"Johar Town Phase 2, Johar Town",House
+6500000.0,405.0,1.0,1.0,Lahore,"Johar Town Phase 2 - Block H3, Johar Town Phase 2",Flat
+35800000.0,1125.0,5.0,5.0,Lahore,"Johar Town Phase 2, Johar Town",House
+65000000.0,4500.0,6.0,6.0,Lahore,"Valencia Housing Society, Lahore",House
+75500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 7 - Block U, DHA Phase 7",House
+4700000.0,1305.0,3.0,3.0,Lahore,"Bahria Town - Jinnah Block, Bahria Town - Sector E",Flat
+41000000.0,2925.0,4.0,5.0,Lahore,"Askari 10 - Sector S, Askari 10",Flat
+10900000.0,675.0,3.0,4.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+77500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 6, DHA Defence",House
+21500000.0,1125.0,4.0,5.0,Lahore,"Park View City - Tulip Overseas, Park View City",House
+27000000.0,1125.0,4.0,5.0,Lahore,"Park View City - Executive Block, Park View City",House
+30000000.0,2250.0,5.0,6.0,Lahore,"Bahria Town - Overseas A, Bahria Town - Overseas Enclave",House
+75000000.0,4500.0,5.0,6.0,Lahore,"Bahria Town - Gulbahar Block, Bahria Town - Sector C",House
+102500000.0,4500.0,5.0,6.0,Lahore,"DHA Phase 5, DHA Defence",House
+15500000.0,675.0,4.0,5.0,Lahore,"Al-Kabir Phase 2 - Block C, Al-Kabir Town - Phase 2",House
+16000000.0,675.0,4.0,5.0,Lahore,"Al-Kabir Phase 2 - Block E, Al-Kabir Town - Phase 2",House
+79000000.0,4500.0,5.0,6.0,Lahore,"PCSIR Housing Scheme Phase 2 - Block B, PCSIR Housing Scheme Phase 2",House
+55000000.0,2250.0,5.0,6.0,Lahore,"Paragon City, Lahore",House
+7500000.0,517.5,1.0,1.0,Lahore,"Bahria Town - Sector C, Bahria Town",Flat
+68800000.0,4500.0,6.0,6.0,Lahore,"Nasheman-e-Iqbal Phase 2, Nasheman-e-Iqbal",House
+15500000.0,810.0,2.0,2.0,Lahore,"Bahria Town - Sector D, Bahria Town",Flat
+37500000.0,2250.0,4.0,6.0,Lahore,"Nasheman-e-Iqbal Phase 1, Nasheman-e-Iqbal",House
+9500000.0,585.0,1.0,1.0,Lahore,"Bahria Town - Sector E, Bahria Town",Flat
+9000000.0,675.0,3.0,3.0,Lahore,"Al-Kabir Town - Phase 2, Al-Kabir Town",House
+8000000.0,517.5,1.0,1.0,Lahore,"Bahria Town - Sector C, Bahria Town",Flat
+6400000.0,472.5,1.0,1.0,Lahore,"Johar Town Phase 2, Johar Town",Flat
